@@ -1,0 +1,75 @@
+.body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.html {
+    margin: 0px;
+    padding: 0px;
+}
+
+.header {
+    height: 60px;
+    line-height: 60px;
+    padding: 20px 20px 20px 20px;
+    background-color: yellow;
+}
+
+.header h1 {
+    float: left;
+    margin: 0px;
+}
+
+.navigation {
+    float: right;
+    margin: 0px;
+}
+
+.navigation li {
+    list-style: none;
+    margin: 0px;
+    padding: 0px 0px 0px 20px;
+    float: left;
+    margin-left: 0px;
+    text-decoration: none;
+}
+
+.content {
+    width: 70%;
+    min-height: 500px;
+    float: left;
+    background-color: lightgray;
+}
+
+.content p {
+    margin: 20px;
+}
+
+.sidebar {
+    width: 30%;
+    min-height: 500px;
+    float: left;
+    color: white;
+    background-color: gray;
+}
+
+.sidebar p {
+    margin: 20px;
+}
+
+a:link, a:visited, a:hover, a:active {
+    color: black;
+}
+
+.blog-post {
+    margin: 10px;
+    background-color: white;
+    border: lightgray;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+img {
+    float: left;
+    margin: 20px 20px 20px 0px;
+}
